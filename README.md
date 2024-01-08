@@ -18,7 +18,7 @@
 
 ## Classes
 
-![Bracket](./src/assets/images/Bracket.png)
+![Bracket](./src/assets/images/bracket.png)
 
 - Represents a bracket in a mathematical expression.
 
