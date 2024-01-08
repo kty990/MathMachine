@@ -72,9 +72,8 @@ export class Token {
     }
 
     static preProcess(tokenArr) {
-
+        // Handle P and C
     }
-
 
     static tokenize(eqStr) {
         console.log(eqStr, typeof (eqStr));

@@ -44,15 +44,15 @@
 
 ## Static Methods
 
-![Token.tokenize](./src/assets/images/Tokenize.png)
+![Token.tokenize](./src/assets/images/tokenize.png)
 
 - Tokenizes the input equation string, handling digits, operators, and variables.
 
-![Token.levelize](./src/assets/images/Levelize.png)
+![Token.levelize](./src/assets/images/levelize.png)
 
 - Converts preprocessed token array into a leveled representation based on operator priorities.
 
-![Token.bracketize](./src/assets/images/Bracketize.png)
+![Token.bracketize](./src/assets/images/bracketize.png)
 
 - Converts a leveled array into a bracketed representation, considering parentheses.
 
